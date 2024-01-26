@@ -10,7 +10,6 @@ function getFavCard(item) {
                 src="${image}"
                 alt="biscuit"
               />
-              <label class="container__heart">
               <input id = 'favoriteCheckbox-${id}' ${
     isFavourite ? "checked" : ""
   } type="checkbox"  onClick="addToFavoriteLatest(${id})"/>
