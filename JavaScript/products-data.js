@@ -3,7 +3,7 @@ const products = [
     id: 1,
     name: "Apple",
     category: "Fruit",
-    description: "A round fruit with a red, green, or yellow ",
+    description: "Г/Ц Блинчики с мясом вес, Россия ",
     price: 89,
     rating: 5,
     discount: 0,
@@ -15,7 +15,7 @@ const products = [
     name: "Banana",
     category: "Fruit",
     description:
-      "A long, curved fruit with a yellow skin and sweet, creamy white flesh.",
+      "Молоко ПРОСТОКВАШИНО паст. питьевое цельное отборное...",
     price: 71,
     rating: 5,
     discount: 20,
@@ -26,7 +26,7 @@ const products = [
     name: "Bread",
     category: "Bakery",
     description:
-      "A staple food made from flour, water, and yeast, baked into a loaf.",
+      "Колбаса сырокопченая МЯСНАЯ ИСТОРИЯ Сальчичон и Тоскан....",
     price: 88,
     rating: 5,
     discount: 20,
@@ -37,7 +37,7 @@ const products = [
     name: "Broccoli",
     category: "Vegetable",
     description:
-      "A green vegetable with a tree-like appearance, known for its high nutrient content.",
+      "Сосиски вареные МЯСНАЯ ИСТОРИЯ Молочные и С сыро...",
     price: 94,
     rating: 4.5,
     discount: 20,
@@ -52,7 +52,7 @@ const products = [
     name: "Carrot",
     category: "Vegetable",
     description:
-      "A root vegetable with a crunchy texture and a sweet, earthy flavor.",
+      "Комбайн КЗС-1218 «ДЕСНА-ПОЛЕСЬЕ GS12»",
     price: 82,
     rating: 5,
     discount: 20,
@@ -63,7 +63,7 @@ const products = [
     name: "Cheese",
     category: "Dairy",
     description:
-      "A dairy product made from milk, with a variety of textures and flavors.",
+      "Колбаса сырокопченая МЯСНАЯ ИСТОРИЯ Сальчичон и Тоскан...",
     price: 91,
     rating: 3.5,
     discount: 50,
@@ -74,7 +74,7 @@ const products = [
     name: "Chicken",
     category: "Meat",
     description:
-      "A type of poultry, often used as a source of protein in meals.",
+      "Комбайн КЗС-1218 «ДЕСНА-ПОЛЕСЬЕ GS12»",
     price: 68,
     rating: 3.5,
     discount: 20,
@@ -85,7 +85,7 @@ const products = [
     name: "Chocolate",
     category: "Dessert",
     description:
-      "A sweet food made from cacao beans, used in a variety of desserts and confections.",
+      "Комбайн КЗС-1218 «ДЕСНА-ПОЛЕСЬЕ GS12»",
     price: 61,
     rating: 4.5,
     discount: 20,
@@ -96,7 +96,7 @@ const products = [
     name: "Coffee",
     category: "Dessert",
     description:
-      "A dark, bitter beverage made from roasted coffee beans, typically used as a pick-me-up.",
+      "Комбайн КЗС-1218 «ДЕСНА-ПОЛЕСЬЕ GS12»",
     price: 98,
     rating: 5,
     discount: 20,
@@ -107,7 +107,7 @@ const products = [
     name: "Egg",
     category: "Dairy",
     description:
-      "A oval-shaped reproductive body produced by birds, often used as a source of protein in meals.",
+      "Комбайн КЗС-1218 «ДЕСНА-ПОЛЕСЬЕ GS12»",
     price: 79,
     rating: 4.5,
     discount: 0,
@@ -118,7 +118,7 @@ const products = [
     name: "Fish",
     category: "Meat",
     description:
-      "A type of seafood, known for its omega-3 fatty acids and high protein content.",
+      "Комбайн КЗС-1218 «ДЕСНА-ПОЛЕСЬЕ GS12»",
     price: 89,
     rating: 3.5,
     discount: 50,
@@ -129,7 +129,7 @@ const products = [
     name: "Grapes",
     category: "Fruit",
     description:
-      "A small, sweet fruit that grows in clusters, often used in wine-making.",
+      "Комбайн КЗС-1218 «ДЕСНА-ПОЛЕСЬЕ GS12»",
     price: 61,
     rating: 4,
     discount: 20,
@@ -140,7 +140,7 @@ const products = [
     name: "Hamburger",
     category: "Fast food",
     description:
-      "A sandwich made with a patty of ground beef, served on a bun with various toppings.",
+      "Комбайн КЗС-1218 «ДЕСНА-ПОЛЕСЬЕ GS12»",
     price: 87,
     rating: 5,
     discount: 0,
@@ -151,7 +151,7 @@ const products = [
     name: "Hot dog",
     category: "Fast food",
     description:
-      "A type of sausage served in a long roll, often used as a quick and convenient food.",
+      "Комбайн КЗС-1218 «ДЕСНА-ПОЛЕСЬЕ GS12»",
     price: 84,
     rating: 4.5,
     discount: 50,
@@ -162,7 +162,7 @@ const products = [
     name: "Ice cream",
     category: "Dessert",
     description:
-      "A frozen dessert made from cream, sugar, and flavorings, available in a variety of flavors.",
+      "Комбайн КЗС-1218 «ДЕСНА-ПОЛЕСЬЕ GS12»",
     price: 68,
     rating: 4.5,
     discount: 0,
@@ -173,7 +173,7 @@ const products = [
     name: "Lemon",
     category: "Fruit",
     description:
-      "A yellow citrus fruit with a tart, acidic flavor, often used in cooking and baking.",
+      "Комбайн КЗС-1218 «ДЕСНА-ПОЛЕСЬЕ GS12»",
     price: 74,
     rating: 3.5,
     discount: 0,
@@ -184,7 +184,7 @@ const products = [
     name: "Eggs",
     category: "Dairy",
     description:
-      "Eggs are oval-shaped reproductive structures produced by female birds and some reptiles.",
+      "Комбайн КЗС-1218 «ДЕСНА-ПОЛЕСЬЕ GS12»",
     price: 70,
     rating: 4.5,
     discount: 50,
@@ -195,7 +195,7 @@ const products = [
     name: "Honey",
     category: "Dairy",
     description:
-      "Honey is a sweet, sticky liquid made by bees from the nectar of flowers.",
+      "Комбайн КЗС-1218 «ДЕСНА-ПОЛЕСЬЕ GS12»",
     price: 87,
     rating: 4,
     discount: 0,
@@ -206,7 +206,7 @@ const products = [
     name: "Ice Cream",
     category: "Dessert",
     description:
-      "Ice cream is a frozen dessert made from cream, sugar, and flavorings.",
+      "Комбайн КЗС-1218 «ДЕСНА-ПОЛЕСЬЕ GS12»",
     price: 83,
     rating: 4.5,
     discount: 0,
@@ -217,7 +217,7 @@ const products = [
     name: "Jelly",
     category: "Fruit",
     description:
-      "Jelly is a sweet spread made from fruit juice and sugar, often used as a topping for toast or pastries.",
+      "Комбайн КЗС-1218 «ДЕСНА-ПОЛЕСЬЕ GS12»",
     price: 76,
     rating: 5,
     discount: 0,
@@ -228,7 +228,7 @@ const products = [
     name: "Ketchup",
     category: "Dairy",
     description:
-      "Ketchup is a tangy sauce made from tomatoes, vinegar, sugar, and spices.",
+      "Колбаса сырокопченая МЯСНАЯ ИСТОРИЯ Сальчичон и Тоскан...",
     price: 77,
     rating: 5,
     discount: 0,
@@ -239,7 +239,7 @@ const products = [
     name: "Mango",
     category: "Fruit",
     description:
-      "Mangoes are juicy, sweet tropical fruits with a fleshy interior and a large, oblong seed in the center.",
+      "Колбаса сырокопченая МЯСНАЯ ИСТОРИЯ Сальчичон и Тоскан...",
     price: 80,
     rating: 5,
     discount: 20,
@@ -250,7 +250,7 @@ const products = [
     name: "Noodles",
     category: "Meat",
     description:
-      "Noodles are a type of pasta made from wheat flour and water, often used in Asian cuisine.",
+      "Колбаса сырокопченая МЯСНАЯ ИСТОРИЯ Сальчичон и Тоскан...",
     price: 93,
     rating: 3.5,
     discount: 20,
@@ -261,7 +261,7 @@ const products = [
     name: "Oatmeal",
     category: "Breakfast",
     description:
-      "Oatmeal is a type of porridge made from oats that is often served for breakfast.",
+      "Колбаса сырокопченая МЯСНАЯ ИСТОРИЯ Сальчичон и Тоскан...",
     price: 94,
     rating: 4.5,
     discount: 0,
@@ -272,7 +272,7 @@ const products = [
     name: "Bacon",
     category: "Breakfast",
     description:
-      "Bacon is a popular breakfast food made from cured pork belly, it is newly delivered.",
+      "Колбаса сырокопченая МЯСНАЯ ИСТОРИЯ Сальчичон и Тоскан...",
     price: 71,
     rating: 3.5,
     discount: 20,
@@ -283,7 +283,7 @@ const products = [
     name: "Pancakes",
     category: "Breakfast",
     description:
-      "Pancakes are a popular breakfast food made from flour, eggs, and milk.",
+      "Колбаса сырокопченая МЯСНАЯ ИСТОРИЯ Сальчичон и Тоскан...",
     price: 63,
     rating: 4,
     discount: 0,
@@ -294,7 +294,7 @@ const products = [
     name: "Waffles",
     category: "Breakfast",
     description:
-      "Waffles are a type of breakfast food made from batter cooked in a waffle iron.",
+      "Колбаса сырокопченая МЯСНАЯ ИСТОРИЯ Сальчичон и Тоскан...",
     price: 97,
     rating: 4.5,
     discount: 20,
@@ -305,7 +305,7 @@ const products = [
     name: "Fried Rice",
     category: "Lunch",
     description:
-      "Fried Rice is a type of rice dish that is stir-fried in a pan with oil and other ingredients.",
+      "Колбаса сырокопченая МЯСНАЯ ИСТОРИЯ Сальчичон и Тоскан...",
     price: 81,
     rating: 4,
     discount: 20,
@@ -316,7 +316,7 @@ const products = [
     name: "Spaghetti",
     category: "Lunch",
     description:
-      "Spaghetti is a type of pasta made from wheat flour and water, usually served with sauce.",
+      "Колбаса сырокопченая МЯСНАЯ ИСТОРИЯ Сальчичон и Тоскан...",
     price: 96,
     rating: 3,
     discount: 50,
@@ -327,7 +327,7 @@ const products = [
     name: "Pizza",
     category: "Lunch",
     description:
-      "Pizza is a popular dish made from dough, sauce, cheese, and toppings.",
+      "Колбаса сырокопченая МЯСНАЯ ИСТОРИЯ Сальчичон и Тоскан...",
     price: 95,
     rating: 4,
     discount: 0,
@@ -338,7 +338,7 @@ const products = [
     name: "Grilled Cheese",
     category: "Lunch",
     description:
-      "A grilled cheese sandwich is a hot sandwich made from cheese and bread.",
+      "Колбаса сырокопченая МЯСНАЯ ИСТОРИЯ Сальчичон и Тоскан...",
     price: 100,
     rating: 5,
     discount: 50,
@@ -349,7 +349,7 @@ const products = [
     name: "Steak",
     category: "Dinner",
     description:
-      "Steak is a popular dinner dish made from a cut of beef that is usually grilled or pan-fried.",
+      "Колбаса сырокопченая МЯСНАЯ ИСТОРИЯ Сальчичон и Тоскан...",
     price: 63,
     rating: 4.5,
     discount: 20,
@@ -360,7 +360,7 @@ const products = [
     name: "Salmon",
     category: "Dinner",
     description:
-      "Salmon is a type of fish that is often grilled or baked and served as a main course.",
+      "Колбаса сырокопченая МЯСНАЯ ИСТОРИЯ Сальчичон и Тоскан....",
     price: 82,
     rating: 4.5,
     discount: 20,
@@ -382,7 +382,7 @@ const products = [
     name: "Lasagna",
     category: "Dinner",
     description:
-      "Lasagna is a type of pasta dish made with layers of pasta, sauce, cheese, and meat or vegetables.",
+      "Комбайн КЗС-1218 «ДЕСНА-ПОЛЕСЬЕ GS12»",
     price: 70,
     rating: 1,
     discount: 0,
@@ -393,7 +393,7 @@ const products = [
     name: "Chocolate Chip Cookies",
     category: "Dessert",
     description:
-      "Chocolate Chip Cookies are a type of cookie made from flour, sugar, butter, and chocolate chips.",
+      "Комбайн КЗС-1218 «ДЕСНА-ПОЛЕСЬЕ GS12»",
     price: 98,
     rating: 3.5,
     discount: 0,

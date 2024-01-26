@@ -32,51 +32,51 @@
     background-color: #fff;
     box-shadow: 1px 2px 4px rgba(0, 0, 0, 0.1);
     border-radius: 4px;
-    &:hover {
-      box-shadow: 4px 8px 16px rgba(255, 102, 51, 0.2);
-      .container__heart {
-        right: 10px;
-      }
-    }
+    // &:hover {
+    //   box-shadow: 4px 8px 16px rgba(255, 102, 51, 0.2);
+    //   .container__heart {
+    //     right: 10px;
+    //   }
+    // }
     img {
       width: 100%;
     }
 
-    .container__heart {
-      display: block;
-      position: absolute;
-      top: 10px;
-      right: -40px;
-      cursor: pointer;
-      font-size: 20px;
-      user-select: none;
-      transition: 100ms;
-      background: #f3f2f1d8;
-      transition: 0.3s ease-out;
-      border-radius: 4px;
-      padding: 5px;
-      input {
-        position: absolute;
-        opacity: 0;
-        cursor: pointer;
-        height: 0;
-        width: 0;
-      }
-      .checkmark {
-        top: 0;
-        left: 0;
-        height: 1.5em;
-        width: 1.5em;
-        transition: 100ms;
-        animation: dislike_effect 400ms ease;
-      }
-      input:checked ~ .checkmark path {
-        fill: #ff5353;
-        stroke-width: 0;
-      }
-      input:checked ~ .checkmark {
-        animation: like_effect 400ms ease;
-      }
+    // .container__heart {
+    //   display: block;
+    //   position: absolute;
+    //   top: 10px;
+    //   right: -40px;
+    //   cursor: pointer;
+    //   font-size: 20px;
+    //   user-select: none;
+    //   transition: 100ms;
+    //   background: #f3f2f1d8;
+    //   transition: 0.3s ease-out;
+    //   border-radius: 4px;
+    //   padding: 5px;
+    //   input {
+    //     position: absolute;
+    //     opacity: 0;
+    //     cursor: pointer;
+    //     height: 0;
+    //     width: 0;
+    //   }
+      // .checkmark {
+      //   top: 0;
+      //   left: 0;
+      //   height: 1.5em;
+      //   width: 1.5em;
+      //   transition: 100ms;
+      //   animation: dislike_effect 400ms ease;
+      // }
+      // input:checked ~ .checkmark path {
+      //   fill: #ff5353;
+      //   stroke-width: 0;
+      // }
+      // input:checked ~ .checkmark {
+      //   animation: like_effect 400ms ease;
+      // }
     }
     @keyframes like_effect {
       0% {
@@ -410,7 +410,7 @@
   }
 
 }
-}
+
 
 h2 {
   margin-top: 50px;

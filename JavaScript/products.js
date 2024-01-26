@@ -10,9 +10,7 @@ function getAllProducts(item) {
     <div  id = "all-card" class="card parent-element">
         <img src="${image}" alt="biscuit"/>
               <label class="container__heart">
-                <input ${
-                  isFavourite ? "checked" : ""
-                } type="checkbox"  onClick="addToFavoriteLatest(${id})"/>
+                
                   <div class="checkmark">
                     <svg viewBox="0 0 256 256">
                       <rect fill="none" height="256" width="256"></rect>
