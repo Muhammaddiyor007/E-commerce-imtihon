@@ -215,21 +215,36 @@ textarea {
   /* 2 */
 }
 
-
+/* Interactive
+   ========================================================================== */
+/*
+ * Add the correct display in Edge, IE 10+, and Firefox.
+ */
 details {
   display: block;
 }
 
-
+/*
+ * Add the correct display in all browsers.
+ */
 summary {
   display: list-item;
 }
 
-* Add the correct display in IE 10+*/ template {
+/* Misc
+   ========================================================================== */
+/**
+ * Add the correct display in IE 10+.
+ */
+template {
+  display: none;
+}
 
-  * Add the correct display in IE 10. */ [hidden] {
-    display: none;
-  }
+/**
+ * Add the correct display in IE 10.
+ */
+[hidden] {
+  display: none;
 }
 
 /* Define the mixin */
@@ -268,7 +283,7 @@ body {
   font-family: var(--font-family-sans-serif) !important;
 }
 
-
+/* Define the mixin */
 .center-image {
   display: block;
   margin: 0 auto;
@@ -1517,16 +1532,19 @@ body.dark #dropdown-content .dropdown_box a:hover {
   color: #000;
 }
 
-/* .footer_navbar .footer_nav_list li a img {
+.footer_navbar .footer_nav_list li a img {
   transition: 0.3s ease-out;
 }
+
 .footer_navbar .footer_nav_list li a:hover img {
   transform: translateY(-8px);
 }
+
 .footer_navbar .footer_nav_list li .red_hover:hover {
   transition: 0.2s ease-out;
   color: red;
-} */
+}
+
 .footer_navbar .footer_nav_list li .red_hover:hover img {
   filter: grayscale(100%) sepia(100%) hue-rotate(0deg) saturate(10000%) brightness(100%) contrast(100%);
 }
